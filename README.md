@@ -43,26 +43,23 @@ LockIt is a powerful application that allows you to easily encrypt and decrypt f
 - Regular backup of encrypted folders
 
 ## 🖼️ Screenshots
-### Main Interface
+### Main Interface for Password Setup
 ![LockIt Main Interface](https://samrat-sarkar.github.io/LockIt/Screenshots/Screenshot1.png)
 
-### Password Setup
+### Login Screen
 ![Password Setup Screen](https://samrat-sarkar.github.io/LockIt/Screenshots/Screenshot2.png)
 
-### Login Screen
+### Encryption Process
 ![Login Interface](https://samrat-sarkar.github.io/LockIt/Screenshots/Screenshot3.png)
 
-### Folder Selection
+### Encryption Done
 ![Folder Selection Screen](https://samrat-sarkar.github.io/LockIt/Screenshots/Screenshot4.png)
-
-### Encryption Process
-![Encryption Process](https://samrat-sarkar.github.io/LockIt/Screenshots/Screenshot5.png)
 
 ### Decryption Process
 ![Decryption Process](https://samrat-sarkar.github.io/LockIt/Screenshots/Screenshot6.png)
 
-### Success Message
-![Success Screen](https://samrat-sarkar.github.io/LockIt/Screenshots/Screenshot7.png)
+### Decryption Done
+![Encryption Process](https://samrat-sarkar.github.io/LockIt/Screenshots/Screenshot5.png)
 
 ## ⚠️ Important Notes
 - Always keep a backup of your encrypted folders
